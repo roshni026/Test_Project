@@ -1,0 +1,2 @@
+def huehue:
+    print("abc")
