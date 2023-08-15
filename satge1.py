@@ -1,2 +1,5 @@
-def huehue:
+def huehue():
+    print("abc")
+
+def abc():
     print("abc")
